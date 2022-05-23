@@ -2,6 +2,8 @@ import "./App.css";
 import Tweet from "./components/Tweet";
 
 const tweetsArray = [
+  <Tweet tweet={ tweetsArray[0] }>
+
   {
     user: {
       name: "Thoughts of Dog®",
